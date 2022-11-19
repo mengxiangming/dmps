@@ -27,7 +27,6 @@ Colorization
 
 
 ### Step 1: Set environment
-### [Option 1] Local environment setting
 
 Create a new environment and install dependencies
 
