@@ -1,0 +1,19 @@
+conditioning:
+  method: dmps
+  params:
+    scale: 1.75
+
+data:
+  name: ffhq
+  root: ./data/samples/
+
+measurement:
+  operator:
+    name: deblur
+    type: gaussian
+    kernel_size: 61
+    intensity: 3.0
+  
+  noise: 
+    name: gaussian
+    sigma: 0.05

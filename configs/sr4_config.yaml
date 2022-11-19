@@ -1,0 +1,18 @@
+conditioning:
+  method: dmps
+  params:
+    scale: 1.75
+
+data:
+  name: ffhq # choices: ffhq, bedroom, cat, celeba-hq
+  root: ./data/samples/ # address to put the associated images
+
+measurement:
+  operator:
+    name: super_resolution
+    in_shape: !!python/tuple [1, 3, 256, 256]
+    scale_factor: 4
+    type: bicubic  
+  noise: 
+    name: gaussian
+    sigma: 0.05
