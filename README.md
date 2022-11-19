@@ -55,11 +55,7 @@ Finally, make sure the code is run on GPU, though it can run on cpu as well.
 
 ### Step 2:  Download pretrained checkpoint
 For FFHQ, download the pretrained checkpoint "ffhq_10m.pt"  from  [link_ffhq_checkpoint](https://drive.google.com/drive/folders/1jElnRoFv7b31fG0v6pTSQkelbSX3xGZh?usp=sharing), and paste it to ./models/
-```
-mkdir models
-mv {DOWNLOAD_DIR}/ffqh_10m.pt ./models/
-```
-{DOWNLOAD_DIR} is the directory that you downloaded checkpoint to.
+
 
 For LSUN bedroom and LSUN cat, download the pretrained checkpoints "lsun_bedroom.pt"  and  "lsun_cat.pt"  from  [link_lsun_checkpoint](https://github.com/openai/guided-diffusion), , and paste it to ./models/
 
