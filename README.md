@@ -10,7 +10,7 @@ We evaluate the efficacy of DMPS on a variety of linear inverse problems such as
 
 Results of DMPS on different tasks in image restoration. 
 ![cover-img](./figures/cover.png)
-
+-----------------------------------------------------------------------------------------
 
 ## Prerequisites
 - python 3.8
