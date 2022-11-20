@@ -7,10 +7,10 @@ Based on diffusion models (DM), we propose a general-purpose posterior sampler c
 We evaluate the efficacy of DMPS on a variety of linear inverse problems such as image super-resolution, denoising, deblurring, colorization. Experimental results demonstrate that, for both in-distribution and out-of-distribution samples,  DMPS achieves highly competitive or even better performances on multiple tasks than the leading competitors. 
 
 
-
+-----------------------------------------------------------------------------------------
 Results of DMPS on different tasks in image restoration. 
 ![cover-img](./figures/cover.png)
------------------------------------------------------------------------------------------
+
 
 ## Prerequisites
 - python 3.8
