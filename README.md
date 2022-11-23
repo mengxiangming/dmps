@@ -97,6 +97,19 @@ python3 main.py \
 ```
 
 
+## Citation 
+
+```
+@article{meng2022diffusion,
+  title={Diffusion Posterior Sampling for General Noisy Inverse Problems},
+  author={Meng, Xiangming and Kabashima, Yoshiyuki},
+  journal={arXiv preprint arXiv:2211.12343},
+  year={2022}
+}
+
+```
+
+
 ## References
 
 This repo is developed based on  [DPS code](https://github.com/DPS2022/diffusion-posterior-sampling) and  [DDRM code](https://github.com/bahjat-kawar/ddrm)
