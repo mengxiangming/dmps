@@ -112,7 +112,7 @@ python3 main.py \
 
 ## References
 
-This repo is developed based on  [DPS code](https://github.com/DPS2022/diffusion-posterior-sampling) and  [DDRM code](https://github.com/bahjat-kawar/ddrm)
+This repo is developed based on  [DPS code](https://github.com/DPS2022/diffusion-posterior-sampling) and  [DDRM code](https://github.com/bahjat-kawar/ddrm). Please also cite them if you use this repo. 
 ```
 
 @inproceedings{kawar2022denoising,
