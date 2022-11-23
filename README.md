@@ -98,6 +98,7 @@ python3 main.py \
 
 
 ## Citation 
+If you find the code useful for your research, please consider citing as 
 
 ```
 @article{meng2022diffusion,
