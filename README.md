@@ -9,7 +9,7 @@ We evaluate the efficacy of DMPS on a variety of linear inverse problems such as
 
 
 -----------------------------------------------------------------------------------------
-Results of DMPS on different tasks in image restoration. 
+Results of DMPS on different tasks in noisy image restoration. 
 ![cover-img](./figures/cover.png)
 
 
