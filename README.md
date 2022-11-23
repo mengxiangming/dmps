@@ -18,7 +18,7 @@ Results of DMPS on different tasks in noisy image restoration.
 
 - pytorch 1.11.0
 
-- CUDA 11.3.1
+- CUDA 11.3.1 (other version is also fine)
 
 
 ## Getting started 
