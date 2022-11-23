@@ -113,7 +113,7 @@ If you find the code useful for your research, please consider citing as
 
 ## References
 
-This repo is developed based on  [DPS code](https://github.com/DPS2022/diffusion-posterior-sampling) and  [DDRM code](https://github.com/bahjat-kawar/ddrm). Please also cite them if you use this repo. 
+This repo is developed based on  [DPS code](https://github.com/DPS2022/diffusion-posterior-sampling) and  [DDRM code](https://github.com/bahjat-kawar/ddrm). Please also consider citing them if you use this repo. 
 ```
 
 @inproceedings{kawar2022denoising,
