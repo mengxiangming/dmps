@@ -65,7 +65,7 @@ For FFHQ, download the pretrained checkpoint "ffhq_10m.pt"  from  [link_ffhq_che
 For LSUN bedroom and LSUN cat, download the pretrained checkpoints "lsun_bedroom.pt"  and  "lsun_cat.pt"  from  [link_lsun_checkpoint](https://github.com/openai/guided-diffusion), , and paste it to ./models/
 
 ### Step 3:  Prepare the dataset
-You need to write your data directory at data.root. Default is ./data/samples which contains three sample images from FFHQ validation set. We also provide other demo data samples in ./data/ used in the submitted manuscript.
+You need to write your data directory at data.root. Default is ./data/samples which contains three sample images from FFHQ validation set. We also provide other demo data samples in ./data/ used in our paper.
 
 ### Step 4: Perform Posterior Sampling for different tasks 
 
