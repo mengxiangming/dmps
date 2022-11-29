@@ -10,7 +10,7 @@ We evaluate the efficacy of DMPS on a variety of linear inverse problems such as
 
 **Extension**: A generalization of dmps to the GLM case with non-linear measurments, in particular quantized measurements, can be foundin this [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006) (code is avaliable at  [QCS-SGM](https://github.com/mengxiangming/QCS-SGM) )
 
-**Notice**: While we did not provide examples of DMPS on (unquantized) compressed sensing, its application is straightforward, as demonstrated in the Appendix of [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006). 
+**Notice**: While we did not provide examples of DMPS on (unquantized) compressed sensing, its application in CS is straightforward and the associated results will be updated soon. For a first reference, please refer to the Appendix of [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006). 
 
 -----------------------------------------------------------------------------------------
 Results of DMPS on different tasks in noisy image restoration. 
