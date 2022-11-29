@@ -8,7 +8,7 @@ Based on diffusion models (DM), we propose a general-purpose posterior sampler c
 We evaluate the efficacy of DMPS on a variety of linear inverse problems such as image super-resolution, denoising, deblurring, colorization. Experimental results demonstrate that, for both in-distribution and out-of-distribution samples,  DMPS achieves highly competitive or even better performances on multiple tasks than the leading competitors. 
 
 
-**Extension**: A generalization of dmps to the GLM case with non-linear measurments, in particular quantized measurements, can be foundin this [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006) (code is avaliable at  [QCS-SGM](https://github.com/mengxiangming/QCS-SGM) )
+**Extension**: A generalization of dmps to the GLM case with non-linear measurments, in particular quantized measurements, can be found in this [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006) (code is avaliable at  [QCS-SGM](https://github.com/mengxiangming/QCS-SGM) )
 
 **Notice**: While we did not provide examples of DMPS on (unquantized) compressed sensing, its application in CS is straightforward and the associated results will be updated soon. For a first reference, please refer to the Appendix of [Quantized Compressed Sensing with Score-Based Generative Models](https://arxiv.org/abs/2211.13006). 
 
