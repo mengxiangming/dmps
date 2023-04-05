@@ -106,7 +106,7 @@ If you find the code useful for your research, please consider citing as
 
 ```
 @article{meng2022diffusion,
-  title={Diffusion Posterior Sampling for General Noisy Inverse Problems},
+  title={Diffusion Model Based Posterior Samplng for Noisy Linear Inverse Problems},
   author={Meng, Xiangming and Kabashima, Yoshiyuki},
   journal={arXiv preprint arXiv:2211.12343},
   year={2022}
