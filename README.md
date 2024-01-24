@@ -3,7 +3,7 @@
 [Diffusion Model Based Posterior Samplng for Noisy Linear Inverse Problems](https://arxiv.org/abs/2211.12343)
 
 
-## Brief Summary
+## Brief Summary of DMPS
 Based on diffusion models (DM), we propose a general-purpose posterior sampler called diffusion model based posterior sampling (DMPS) to address the ubiquitous noisy linear inverse problems y = Ax + n. To address the intractability of exact noise-perturbed likelihood score, a simple yet effective noise-perturbed pseudo-likelihood score is introduced. 
 We evaluate the efficacy of DMPS on a variety of linear inverse problems such as image super-resolution, denoising, deblurring, colorization. Experimental results demonstrate that, for both in-distribution and out-of-distribution samples,  DMPS achieves highly competitive or even better performances on multiple tasks than the leading competitors. 
 
