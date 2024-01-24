@@ -286,7 +286,7 @@ class Colorization(H_functions):
 
 # Walsh-Hadamard Compressive Sensing
 class WalshHadamardCS(H_functions):
-    def fwht(self, vec):  # the Fast Walsh Hadamard Transform is the same as its inverse
+    def fwht(self, vec):  # the Fast Walsh Hadamard Transform is the same as the inverse
         a = vec.reshape(vec.shape[0], self.channels, self.img_dim ** 2)
         h = 1
         while h < self.img_dim ** 2:
