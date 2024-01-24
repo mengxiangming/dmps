@@ -116,7 +116,7 @@ class CatDataset(VisionDataset):
 
         return img
 
-@register_dataset(name='imagenet')
+@register_dataset(name='imagenet') #imagenet
 class ImagenetDataset(VisionDataset):
     def __init__(self, root: str, transforms: Optional[Callable] = None):
         super().__init__(root, transforms)
