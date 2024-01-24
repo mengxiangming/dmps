@@ -1,7 +1,7 @@
 conditioning:
   method: dmps
   params:
-    scale: 1.75
+    scale: 1.75 # default value
 
 data:
   name: ffhq # choices: ffhq, bedroom, cat, celeba-hq
