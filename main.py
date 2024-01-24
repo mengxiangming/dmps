@@ -202,7 +202,7 @@ def main():
 
         y_n = y_x + noiser.sigma * torch.randn_like(y_x)
         
-        # General-Purpose Posterior Sampling via DMPS
+        # General-Purpose Posterior Sampling via DMPS and output the results
         DMPS_start_time = time.time()
         x_start = torch.randn(ref_img.shape, device=device).requires_grad_()
         sample = sample_fn(x_start=x_start, measurement=y_n, H_funcs=H_funcs, noise_std = noiser.sigma, record=True, save_root=out_path)
