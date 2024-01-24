@@ -54,7 +54,7 @@ class Identity(ConditioningMethod):
     def conditioning(self, x_t):
         return x_t
 
-@register_conditioning_method(name='dmps')
+@register_conditioning_method(name='dmps') # DMPS method
 class PosteriorSampling_meng(ConditioningMethod):
     def __init__(self, operator, noiser, **kwargs):
         super().__init__(operator, noiser)
